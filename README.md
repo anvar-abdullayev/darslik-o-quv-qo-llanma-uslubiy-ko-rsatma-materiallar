@@ -1,2 +1,2 @@
-# darslik-o-quv-qo-llanma-uslubiy-ko-rsatma-materiallar
+# anvar
 kitoblarni tayyorlash uchun
