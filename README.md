@@ -1,2 +1,2 @@
-# anvar
+# materiallar
 kitoblarni tayyorlash uchun
